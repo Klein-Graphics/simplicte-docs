@@ -1,1 +1,0 @@
-The nested Model folder is required due to Simplecart's use of namespacing.
